@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="09e3e946-90cf-4180-86a5-2e503cb9cabf" solutionId="09e3e946-90cf-4180-86a5-2e503cb9cabf" resetWebServer="false" sharePointProductVersion="15.0" name="SharePointProjectdropdownlist" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="ebe7d1a6-7a89-4598-b87f-8d03e9c20bee" />
+  </features>
+</package>
